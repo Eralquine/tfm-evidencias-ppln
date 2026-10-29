@@ -1,0 +1,193 @@
+id,control_id,real,predicho
+EV0006,3,suficiente,suficiente
+EV0009,15,parcialmente suficiente,parcialmente suficiente
+EV0015,3,suficiente,suficiente
+EV0021,17,no aplicable,no aplicable
+EV0023,7,insuficiente,suficiente
+EV0024,13,no aplicable,no aplicable
+EV0029,19,parcialmente suficiente,insuficiente
+EV0030,20,suficiente,suficiente
+EV0032,3,suficiente,suficiente
+EV0034,20,parcialmente suficiente,insuficiente
+EV0035,15,suficiente,suficiente
+EV0036,1,suficiente,suficiente
+EV0037,2,parcialmente suficiente,insuficiente
+EV0040,19,no aplicable,no aplicable
+EV0042,16,parcialmente suficiente,parcialmente suficiente
+EV0043,5,insuficiente,parcialmente suficiente
+EV0044,10,suficiente,suficiente
+EV0054,3,parcialmente suficiente,insuficiente
+EV0056,10,no aplicable,no aplicable
+EV0060,7,parcialmente suficiente,parcialmente suficiente
+EV0062,3,suficiente,suficiente
+EV0069,11,insuficiente,insuficiente
+EV0070,11,insuficiente,insuficiente
+EV0072,16,suficiente,suficiente
+EV0077,9,suficiente,parcialmente suficiente
+EV0078,19,no aplicable,no aplicable
+EV0081,4,insuficiente,insuficiente
+EV0082,1,insuficiente,insuficiente
+EV0085,2,suficiente,suficiente
+EV0086,18,insuficiente,parcialmente suficiente
+EV0088,1,suficiente,suficiente
+EV0091,13,insuficiente,suficiente
+EV0094,20,suficiente,suficiente
+EV0096,20,insuficiente,suficiente
+EV0099,10,no aplicable,no aplicable
+EV0100,1,parcialmente suficiente,suficiente
+EV0101,15,suficiente,parcialmente suficiente
+EV0103,3,suficiente,suficiente
+EV0104,20,parcialmente suficiente,parcialmente suficiente
+EV0111,10,no aplicable,no aplicable
+EV0120,7,no aplicable,no aplicable
+EV0122,5,no aplicable,no aplicable
+EV0125,19,parcialmente suficiente,suficiente
+EV0126,3,parcialmente suficiente,parcialmente suficiente
+EV0131,20,insuficiente,insuficiente
+EV0138,8,no aplicable,no aplicable
+EV0139,7,insuficiente,insuficiente
+EV0140,14,no aplicable,no aplicable
+EV0144,14,no aplicable,no aplicable
+EV0145,12,parcialmente suficiente,suficiente
+EV0147,17,no aplicable,no aplicable
+EV0158,18,no aplicable,no aplicable
+EV0172,11,suficiente,suficiente
+EV0174,20,insuficiente,insuficiente
+EV0178,8,no aplicable,no aplicable
+EV0179,2,insuficiente,parcialmente suficiente
+EV0180,2,parcialmente suficiente,suficiente
+EV0182,2,insuficiente,no aplicable
+EV0184,19,parcialmente suficiente,parcialmente suficiente
+EV0186,2,insuficiente,parcialmente suficiente
+EV0190,15,suficiente,insuficiente
+EV0191,10,no aplicable,no aplicable
+EV0196,16,parcialmente suficiente,suficiente
+EV0197,12,insuficiente,parcialmente suficiente
+EV0198,1,insuficiente,suficiente
+EV0203,4,insuficiente,insuficiente
+EV0206,8,suficiente,suficiente
+EV0207,6,no aplicable,no aplicable
+EV0218,4,parcialmente suficiente,parcialmente suficiente
+EV0221,13,no aplicable,no aplicable
+EV0222,17,parcialmente suficiente,parcialmente suficiente
+EV0225,9,insuficiente,parcialmente suficiente
+EV0226,10,parcialmente suficiente,suficiente
+EV0230,12,suficiente,suficiente
+EV0231,2,parcialmente suficiente,parcialmente suficiente
+EV0235,13,suficiente,suficiente
+EV0237,13,suficiente,suficiente
+EV0241,9,parcialmente suficiente,parcialmente suficiente
+EV0246,18,no aplicable,no aplicable
+EV0248,13,parcialmente suficiente,parcialmente suficiente
+EV0251,15,no aplicable,no aplicable
+EV0253,18,insuficiente,parcialmente suficiente
+EV0254,16,suficiente,suficiente
+EV0255,12,insuficiente,insuficiente
+EV0270,16,parcialmente suficiente,insuficiente
+EV0273,8,insuficiente,suficiente
+EV0287,8,insuficiente,insuficiente
+EV0291,11,suficiente,suficiente
+EV0293,15,parcialmente suficiente,parcialmente suficiente
+EV0294,5,no aplicable,no aplicable
+EV0296,5,insuficiente,suficiente
+EV0302,18,no aplicable,no aplicable
+EV0304,14,no aplicable,no aplicable
+EV0307,7,insuficiente,parcialmente suficiente
+EV0310,17,parcialmente suficiente,no aplicable
+EV0312,9,parcialmente suficiente,parcialmente suficiente
+EV0314,19,no aplicable,no aplicable
+EV0319,8,parcialmente suficiente,parcialmente suficiente
+EV0320,16,suficiente,suficiente
+EV0322,1,parcialmente suficiente,no aplicable
+EV0323,17,parcialmente suficiente,parcialmente suficiente
+EV0324,12,parcialmente suficiente,suficiente
+EV0325,5,suficiente,parcialmente suficiente
+EV0335,5,suficiente,insuficiente
+EV0336,13,insuficiente,parcialmente suficiente
+EV0346,18,insuficiente,parcialmente suficiente
+EV0353,4,insuficiente,insuficiente
+EV0357,5,parcialmente suficiente,parcialmente suficiente
+EV0360,4,suficiente,suficiente
+EV0361,2,insuficiente,suficiente
+EV0363,4,parcialmente suficiente,suficiente
+EV0364,5,parcialmente suficiente,suficiente
+EV0365,14,no aplicable,no aplicable
+EV0372,18,no aplicable,no aplicable
+EV0379,12,insuficiente,insuficiente
+EV0380,15,insuficiente,insuficiente
+EV0386,3,insuficiente,insuficiente
+EV0389,7,no aplicable,no aplicable
+EV0392,7,suficiente,suficiente
+EV0401,14,no aplicable,no aplicable
+EV0404,10,no aplicable,no aplicable
+EV0406,3,parcialmente suficiente,parcialmente suficiente
+EV0410,18,no aplicable,no aplicable
+EV0412,6,parcialmente suficiente,suficiente
+EV0417,12,suficiente,suficiente
+EV0418,6,parcialmente suficiente,parcialmente suficiente
+EV0419,17,no aplicable,no aplicable
+EV0423,13,suficiente,suficiente
+EV0425,9,insuficiente,insuficiente
+EV0429,2,insuficiente,insuficiente
+EV0430,10,no aplicable,no aplicable
+EV0431,18,suficiente,parcialmente suficiente
+EV0433,8,insuficiente,insuficiente
+EV0445,8,suficiente,parcialmente suficiente
+EV0448,8,parcialmente suficiente,suficiente
+EV0451,13,no aplicable,no aplicable
+EV0453,11,insuficiente,suficiente
+EV0454,7,no aplicable,no aplicable
+EV0458,6,no aplicable,no aplicable
+EV0467,10,parcialmente suficiente,parcialmente suficiente
+EV0474,5,parcialmente suficiente,suficiente
+EV0476,16,insuficiente,suficiente
+EV0477,18,suficiente,parcialmente suficiente
+EV0478,7,suficiente,parcialmente suficiente
+EV0486,15,no aplicable,no aplicable
+EV0490,2,suficiente,parcialmente suficiente
+EV0491,20,parcialmente suficiente,parcialmente suficiente
+EV0492,13,no aplicable,no aplicable
+EV0493,6,suficiente,insuficiente
+EV0501,10,suficiente,parcialmente suficiente
+EV0505,11,suficiente,suficiente
+EV0506,20,insuficiente,parcialmente suficiente
+EV0509,18,no aplicable,no aplicable
+EV0512,12,suficiente,parcialmente suficiente
+EV0519,13,insuficiente,suficiente
+EV0526,7,suficiente,suficiente
+EV0529,4,parcialmente suficiente,parcialmente suficiente
+EV0530,2,suficiente,insuficiente
+EV0540,6,suficiente,suficiente
+EV0542,4,no aplicable,no aplicable
+EV0546,10,parcialmente suficiente,insuficiente
+EV0549,6,no aplicable,no aplicable
+EV0552,5,suficiente,parcialmente suficiente
+EV0554,8,parcialmente suficiente,parcialmente suficiente
+EV0558,14,parcialmente suficiente,no aplicable
+EV0563,1,suficiente,suficiente
+EV0566,17,no aplicable,no aplicable
+EV0573,11,parcialmente suficiente,parcialmente suficiente
+EV0576,18,suficiente,parcialmente suficiente
+EV0582,16,insuficiente,suficiente
+EV0586,12,parcialmente suficiente,suficiente
+EV0588,5,insuficiente,insuficiente
+EV0590,17,no aplicable,no aplicable
+EV0593,3,insuficiente,parcialmente suficiente
+EV0598,17,no aplicable,no aplicable
+EV0601,3,insuficiente,insuficiente
+EV0603,9,parcialmente suficiente,insuficiente
+EV0606,15,insuficiente,insuficiente
+EV0611,15,insuficiente,insuficiente
+EV0615,10,suficiente,suficiente
+EV0616,9,insuficiente,insuficiente
+EV0620,8,no aplicable,no aplicable
+EV0622,15,no aplicable,no aplicable
+EV0625,16,insuficiente,insuficiente
+EV0627,12,parcialmente suficiente,parcialmente suficiente
+EV0629,1,suficiente,suficiente
+EV0630,5,no aplicable,no aplicable
+EV0631,1,parcialmente suficiente,no aplicable
+EV0634,20,suficiente,parcialmente suficiente
+EV0636,4,no aplicable,no aplicable
+EV0638,4,no aplicable,no aplicable
+EV0640,1,insuficiente,insuficiente

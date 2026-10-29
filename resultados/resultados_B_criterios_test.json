@@ -1,0 +1,64 @@
+{
+ "macro_f1": 0.7892857142857143,
+ "exactitud_balanceada": 0.8333333333333333,
+ "mcc": 0.7842934903910445,
+ "kappa": 0.7582417582417582,
+ "por_clase": {
+  "suficiente": {
+   "P": 1.0,
+   "R": 1.0,
+   "F1": 1.0
+  },
+  "parcialmente suficiente": {
+   "P": 0.6666666666666666,
+   "R": 1.0,
+   "F1": 0.8
+  },
+  "insuficiente": {
+   "P": 0.75,
+   "R": 1.0,
+   "F1": 0.8571428571428571
+  },
+  "no aplicable": {
+   "P": 1.0,
+   "R": 0.3333333333333333,
+   "F1": 0.5
+  }
+ },
+ "tasa_aceptacion_indebida": 0.0,
+ "matriz_confusion(filas=real,cols=pred)": [
+  [
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   3,
+   0
+  ],
+  [
+   0,
+   1,
+   1,
+   1
+  ]
+ ],
+ "IC95": [
+  0.45,
+  1.0
+ ],
+ "n": 11,
+ "sin_respuesta_valida": 1,
+ "tokens_in": 18498,
+ "tokens_out": 1391,
+ "modelo": "claude-sonnet-5-5"
+}

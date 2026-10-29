@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+matplotlib
+sentence-transformers>=3,<4
+transformers>=4.44,<5
+huggingface-hub<1
+torch
